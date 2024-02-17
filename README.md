@@ -7,3 +7,4 @@ Ini senarai yang hadir!
 - @zackrsli
 - @Xavier-IV
 - random
+- [@0hanif0](https://github.com/0hanif0)
