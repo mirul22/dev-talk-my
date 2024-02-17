@@ -8,6 +8,7 @@ Ini senarai yang hadir!
 - [@zackrsli](https://github.com/zackrsli)
 - [@Xavier-IV](https://github.com/Xavier-IV)
 - [@0xn1](https://github.com/0xn1)
+- [@mirul22](https://github.com/mirul22)
 
 Photo version:
 
@@ -17,3 +18,4 @@ Photo version:
 [<img src="https://github.com/zackrsli.png" width="48">](https://github.com/zackrsli)
 [<img src="https://github.com/Xavier-IV.png" width="48">](https://github.com/Xavier-IV)
 [<img src="https://github.com/0xn1.png" width="48">](https://github.com/0xn1)
+[<img src="https://github.com/mirul22.png" width="48">](https://github.com/mirul22)
